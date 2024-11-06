@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo más de **C#,JavaScript, Python y algunos Frameworks como Vite y React.**
 
-- 📫 Cómo ponerse en contacto conmigo **abilaguna4@gmail.com**
+- 📫 Contacto **abilaguna4@gmail.com**
 
 
 
